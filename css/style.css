@@ -1,0 +1,21 @@
+th
+{
+    font-size: 32pt;
+    border: 6px solid black;
+    width: 250px;
+    padding: 25px;
+}
+td
+{
+    padding: 20px;
+}
+table
+{
+    border: 6px solid red;
+}
+caption
+{
+    font-size: 48pt;
+    font-weight: bold;
+    color:red
+}

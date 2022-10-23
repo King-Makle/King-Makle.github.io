@@ -19,3 +19,11 @@ caption
     font-weight: bold;
     color:red
 }
+#tableheader
+{
+    text-decoration: wavy;
+}
+.tablerow
+{
+    color: aqua;
+}

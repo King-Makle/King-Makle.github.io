@@ -5,6 +5,13 @@ th
     width: 250px;
     padding: 25px;
 }
+h1
+{
+    font-size: 32pt;
+    border: 6px solid rgb(255, 0, 0);
+    width: 250px;
+    padding: 25px;
+}
 td
 {
     padding: 20px;

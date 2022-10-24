@@ -19,6 +19,13 @@ h2
     width: 200px;
     padding: auto;
 }
+li
+{
+    font-size: 20px;
+    border: 4px solid rgb(100, 0, 200);
+    width: 200px;
+    padding: auto;
+}
 td
 {
     padding: 20px;

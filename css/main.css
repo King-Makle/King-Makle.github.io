@@ -1,6 +1,7 @@
 h1
 {
     font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: crimson;
     background-color: black;
 }
@@ -12,4 +13,8 @@ img
 {
     border-color: white;
     box-shadow: 3px cornsilk;
+}
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
 }

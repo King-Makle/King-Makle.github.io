@@ -11,4 +11,5 @@ body
 img
 {
     border-color: white;
+    box-shadow: 3px cornsilk;
 }
